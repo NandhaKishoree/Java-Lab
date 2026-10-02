@@ -1,2 +1,2 @@
 # Java-Lab
-Java Practical
+.class files are ignored for better readability
