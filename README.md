@@ -1,2 +1,1 @@
 # Java-Lab
-Java Practical
